@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cristian Vargas",
+	"description" : "This is a challenge in order to get the FreeCodeCamp's Backend Certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
