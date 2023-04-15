@@ -4,8 +4,10 @@
 	"description" : "This is a challenge in order to get the FreeCodeCamp's Backend Certification",
 	"keywords":["freecodecamp", "test", "certification", "backend", "development"],
 	"license":"MIT",
+	"version":"1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example":"1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
