@@ -3,6 +3,7 @@
 	"author": "Cristian Vargas",
 	"description" : "This is a challenge in order to get the FreeCodeCamp's Backend Certification",
 	"keywords":["freecodecamp", "test", "certification", "backend", "development"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
